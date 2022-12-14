@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(38, 14, 14);
+    text-align: center;
+    border-style: solid;
+  }
+  h5 {
+    color:rgb(38, 14, 14)
+    text-align:right;
+  }
+  div {
+    text-align:center;
+  }
